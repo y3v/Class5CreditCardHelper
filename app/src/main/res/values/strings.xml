@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Class5-CreditCardHelper</string>
+    <string name="enter_card_balance">Enter Card Balance ($)</string>
+    <string name="enter_yearly_interest_rate">Enter Yearly Interest Rate (%)</string>
+    <string name="months_remaining">Months Remaining</string>
+    <string name="final_card_balance">Final Card Balance ($)</string>
+    <string name="enter_minimum_payment">Enter Minimum Payment ($)</string>
+    <string name="compute">Compute</string>
+    <string name="clear">Clear</string>
+    <string name="interest_will_be_paid">Interest Will be paid ($)</string>
+</resources>
